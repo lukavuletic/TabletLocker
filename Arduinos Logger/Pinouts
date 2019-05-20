@@ -1,0 +1,17 @@
+Pinout Etherneta na Receiveru:
+GND 	-> 		GND
+VCC 	-> 		5V
+CS   	-> 		PIN 10
+SI    	-> 		PIN 11
+SCK 	-> 		PIN 13
+SO   	-> 		PIN 12
+
+Pinout RFIDa na Transmitteru:
+SDA   	-> 		PIN 10
+SCK   	-> 		PIN 13
+MOSI 	-> 		PIN 11
+MISO 	-> 		PIN 12
+GND  	-> 		GND
+RST   	-> 		PIN 5
+3.3V   	-> 		3.3V
+
